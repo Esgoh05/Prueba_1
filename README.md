@@ -1,5 +1,5 @@
 # Prueba_1
-INTRODUCCIÓN A GITHUB <span style="color:red">HACK WOMEN</span>
+INTRODUCCIÓN A GITHUB 
 ## HACK WOMEN :smiley:  
 | NOMBRE| APELLIDO|
 | :-------- | :-------: |
