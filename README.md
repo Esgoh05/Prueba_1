@@ -3,4 +3,4 @@ INTRODUCCIÓN A GITHUB
 ## HACK WOMEN :smiley:
 | NOMBRE| APELLIDO|
 | :-------- | :-------: |
-| Estefanìa  Gordillo | 
+| Estefanìa | Gordillo | 
