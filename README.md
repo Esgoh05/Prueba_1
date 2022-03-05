@@ -15,4 +15,4 @@ Ya han pasado varios años desde entonces, y ella aun sigue con nosotros. Lament
 Tita tiene muchas historias y aveces pienso que nos cuida mucho. Si salgo a la tienda, ella me acompaña por lo menos hasta la esquina para regresar juntas a casa. Cuando llego a casa ella es la primera en salir para oler debajo de la puerta. El año pasado nos desperto un fuerte ruido. Ella se estaba peleando con un tlacuache porque se llevaba una gallina. Y bueno, gano.
 <details><summary>CLICK ME</summary>
 <p>
-![tita](img/IMG_20190905_015743038.jpg)
+![tita](img/IMG_20190905_015743038.png)
