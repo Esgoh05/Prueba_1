@@ -4,17 +4,9 @@ INTRODUCCIÓN A GITHUB
 | NOMBRE| APELLIDO|
 | :-------- | :-------: |
 | Estefanìa | Gordillo | 
-> Dorothy followed her through many of the beautiful rooms in her castle.
+> Hola, mi nombre es Estefania Gordillo pero estoy acostumbrada a que mis amigos y familia me llamen fanny.
 >
 >> The Wi
 <details><summary>CLICK ME</summary>
 <p>
 
-#### We can hide anything, even code!
-
-    ```ruby
-      puts "Hello World"
-    ```
-
-</p>
-</details>
