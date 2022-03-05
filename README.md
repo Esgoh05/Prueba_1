@@ -12,4 +12,4 @@ INTRODUCCIÓN A GITHUB
 >>Tita tiene muchas historias y aveces pienso que nos cuida mucho. Si salgo a la tienda, ella me acompaña por lo menos hasta la esquina para regresar juntas a casa. Cuando llego a casa ella es la primera en salir para oler debajo de la puerta. El año pasado nos desperto un fuerte ruido. Ella se estaba peleando con un tlacuache porque se llevaba una gallina. Y bueno, gano.
 <details><summary>CLICK ME</summary>
 <p>
-![tita](tita/gatita.png)
+![gato](imagen/silueta.png)
